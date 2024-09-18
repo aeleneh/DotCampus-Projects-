@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+  
+h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
